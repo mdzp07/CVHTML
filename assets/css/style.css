@@ -1,0 +1,17 @@
+.big{
+    font-size: 30px;
+    color: darkred;
+}
+
+li{
+    font-style: italic;
+}
+
+h3{
+    color: darkred;
+}
+
+#black {
+    background-color: lightgreen;
+
+}
